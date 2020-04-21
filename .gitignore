@@ -10,5 +10,8 @@ npm-debug.*
 web-build/
 web-report/
 
+yarn.lock
+package-lock.json
+
 # macOS
 .DS_Store
